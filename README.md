@@ -12,6 +12,8 @@ Web application chatbot berbasis Flask yang menggunakan Google Gemini AI API unt
 - 🔄 Reset chat history
 - 📱 Responsive design
 
+![Chatbot Interface](screenshot.png)
+
 ## 🛠️ Teknologi
 
 - **Backend**: Python Flask
@@ -53,7 +55,7 @@ C:/chatbot_phyton/.venv/Scripts/python.exe -m pip install -r requirements.txt
 
 API key Google AI sudah dikonfigurasi di file `.env`:
 ```
-GOOGLE_API_KEY=AIzaSyCXqCdwco2ZLcbqS_hABwefTaIsCRPatAw
+xxxxxxxxxxxxxxxxxxxx
 ```
 
 ⚠️ **PENTING**: Jangan share API key Anda di repository publik!
